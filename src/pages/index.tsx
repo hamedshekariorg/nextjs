@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-   <div>home</div>
+   <h3 style={{textAlign:"center"}}>mammad koss ammat</h3>
   )
 }
